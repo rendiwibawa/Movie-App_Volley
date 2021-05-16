@@ -1,9 +1,8 @@
+## Ringkasan Volley
+Volley adalah library HTTP yang mempermudah dan, yang terpenting, mempercepat networking untuk aplikasi Android. Volley tersedia di [GitHub](https://github.com/google/volley)
 <a href="https://www.fsf.org">
 	<img align="right" src="https://github.com/Resep-Makanan/ResepMasakan/blob/master/ezgif.com-gif-maker.gif">
 </a>
-## Ringkasan Volley
-Volley adalah library HTTP yang mempermudah dan, yang terpenting, mempercepat networking untuk aplikasi Android. Volley tersedia di [GitHub](https://github.com/google/volley)
-
 ##  Cara menambahkan Volley:
 Library Volley inti dikembangkan di GitHub dan berisi pipeline pengiriman permintaan utama serta seperangkat utilitas yang berlaku secara umum, dan tersedia di "toolbox" Volley. Cara termudah untuk menambahkan Volley ke project Anda adalah dengan menambahkan dependensi berikut ke file build.gradle aplikasi Anda:
 ```java
