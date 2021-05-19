@@ -2,7 +2,7 @@
 Volley adalah library HTTP yang mempermudah dan, yang terpenting, mempercepat networking untuk aplikasi Android. Volley tersedia di [GitHub](https://github.com/google/volley)
 
 <a href="https://www.fsf.org">
-	<img align="right" src="https://github.com/rendiwibawa/Movie-App_Volley/blob/master/SVID_20210519_210039_1.gif">
+	<img align="bottom" src="https://github.com/rendiwibawa/Movie-App_Volley/blob/master/SVID_20210519_210039_1.gif">
 </a>
 
 ##  Cara menambahkan Volley:
